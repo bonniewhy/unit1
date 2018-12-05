@@ -1,4 +1,7 @@
-# NOTES ---
+# NOTES --- 
+# --- Turtle is a module that allows us to create graphics called "turtle graphics".
+# --- 
+
 
 # ______________________________________________________________________________
 # 
